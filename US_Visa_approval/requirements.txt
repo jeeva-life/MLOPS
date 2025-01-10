@@ -1,0 +1,23 @@
+ipykernel
+pandas
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+pymongo
+from_root
+evidently
+dill
+PyYAML
+neuro_mf
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+numpy
+-e . # looks for setup.py file & this file looks for constructor file in all folders
